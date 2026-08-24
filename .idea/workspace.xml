@@ -1,36 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="187238fb-236c-4d61-bbdb-fead74a8c8d4" name="Changes" comment="" />
+    <list default="true" id="187238fb-236c-4d61-bbdb-fead74a8c8d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "animaaryan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/animaaryan/CoffeeMachine.git",
+    "accountId": "87ebdfd1-d5b5-4280-b3f1-f03312c94b10"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000023695637" />
+      <entry key="S10" value="1.0000583200595612" />
+      <entry key="S30" value="1.0921641689323465" />
+      <entry key="S60" value="2.008192570602488" />
+      <entry key="M2" value="6.97490158402112" />
+      <entry key="M5" value="30.88266399148101" />
+      <entry key="M10" value="58.09599936373888" />
+      <entry key="M15" value="72.69299430405407" />
+      <entry key="M30" value="91.54255894032228" />
+      <entry key="H1" value="102.96913955057627" />
+      <entry key="H2" value="109.2696926112227" />
+      <entry key="H4" value="112.57921532099388" />
+      <entry key="D1" value="115.42197456371818" />
+      <entry key="W1" value="115.91722936599547" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="7.817212612840386E-130" />
+      <entry key="S2" value="5.517812587912732E-33" />
+      <entry key="S5" value="1.7511305561739264E-13" />
+      <entry key="S10" value="7.089750955766671E-7" />
+      <entry key="S30" value="0.026516863719327783" />
+      <entry key="S60" value="0.532203012687971" />
+      <entry key="M2" value="3.150946922671462" />
+      <entry key="M5" value="11.493897284348924" />
+      <entry key="M10" value="18.820362576163056" />
+      <entry key="M15" value="22.365852697560353" />
+      <entry key="M30" value="26.693991947354828" />
+      <entry key="H1" value="29.210651344651982" />
+      <entry key="H2" value="30.569284491878026" />
+      <entry key="H4" value="31.27537447064255" />
+      <entry key="D1" value="31.877919393900957" />
+      <entry key="W1" value="31.982527541783647" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9330329915368074" />
+      <entry key="MS500" value="0.9862327044933592" />
+      <entry key="S2" value="0.9965402628278678" />
+      <entry key="S5" value="0.9986146684680951" />
+      <entry key="S10" value="0.999366037578822" />
+      <entry key="S30" value="1.1177371818454755" />
+      <entry key="S60" value="2.5336467096994877" />
+      <entry key="M2" value="10.107951683991367" />
+      <entry key="M5" value="42.35243579018188" />
+      <entry key="M10" value="76.89705527655539" />
+      <entry key="M15" value="95.04365037492664" />
+      <entry key="M30" value="118.2275347941537" />
+      <entry key="H1" value="132.17487077376828" />
+      <entry key="H2" value="139.83640580599643" />
+      <entry key="H4" value="143.85327523574506" />
+      <entry key="D1" value="147.29967075333988" />
+      <entry key="W1" value="147.8997249194749" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3IMBk26C8s6hYvAiH5E5IH2rVu1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/aarya/Documents/PythonProject/CoffeeMachine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aarya\Documents\PythonProject\CoffeeMachine" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,11 +151,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1787564697904</updated>
-      <workItem from="1787564698920" duration="1000" />
+      <workItem from="1787564698920" duration="1133000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1787564767374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787564767375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CoffeeMachine$main.coverage" NAME="main Coverage Results" MODIFIED="1787565798168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
