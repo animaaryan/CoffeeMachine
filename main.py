@@ -1,6 +1,10 @@
 # Import functions
 import menu
 import resources as report
+from art import logo
+
+# Print logo
+print(logo)
 
 # Constants
 REPORT = report.resources
@@ -87,14 +91,11 @@ while not IS_RUNNING:
         # Store the price of the coffee
         store_value = cost(user_choice)
 
-        # Set user money
-        USER_MONEY = 0
-
         # Call function
-        USER_MONEY += process_coins()
+        user_money = process_coins()
 
         # Check if the user has enough money for this
-        has_money = billing(store_value, USER_MONEY)
+        has_money = billing(store_value, user_money)
 
         if not has_money:
             continue
@@ -103,7 +104,7 @@ while not IS_RUNNING:
             MACHINE_MONEY += store_value
 
             # Print the money
-            print(f"Here is ${round(USER_MONEY - store_value, 2)} in change.")
+            print(f"Here is ${round(user_money - store_value, 2)} in change.")
 
             # Reduce after resources are sufficient
             for key in needed_ingredients:
